@@ -31,5 +31,4 @@ class BuscaCep:
 
 
 
-cep2 = BuscaCep('AM', 'Manaus', 'Rua Kamakura')
-cep2.mostrar_cep()
+
